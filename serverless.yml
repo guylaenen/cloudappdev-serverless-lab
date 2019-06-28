@@ -1,4 +1,4 @@
-service: NN-feedback-service
+service: 33-feedback-service
 
 provider:
   name: openwhisk
